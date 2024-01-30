@@ -1,0 +1,11 @@
+# para uma linha de comentários
+
+@moduledoc """
+  Para um comentário de módulo
+"""
+
+@doc """
+  Para um comentário de função
+"""
+
+No Elixir é tratado como documentação
